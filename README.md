@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   
 ##🤍 𝐭𝐞𝐜𝐡 🤍
  
-[![JS](https://img.shields.io/badge/php-#777BB4?style=flat-square&logo=PHP&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![JS](https://img.shields.io/badge/php-black?style=flat-square&logo=PHP&logoColor=#777BB4)](github.com/Joowon0220/TODO-List)
