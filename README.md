@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   
 ##🤍 𝐭𝐞𝐜𝐡 🤍
  
-[![php](https://img.shields.io/badge/php-puple?style=flat-square&logo=PHP&logoColor=#777BB4)](github.com/Joowon0220/TODO-List)
-[![python](https://img.shields.io/badge/python-blue?style=flat-square&logo=Python&logoColor=#3776AB)](https://github.com/Ohminjung0804/Python_Project)
+[![php](https://img.shields.io/badge/php-puple?style=flat-square&logo=PHP&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![python](https://img.shields.io/badge/python-#777BB4?style=flat-square&logo=Python&logoColor=white)](https://github.com/Ohminjung0804/Python_Project)
