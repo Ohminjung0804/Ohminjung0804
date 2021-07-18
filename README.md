@@ -21,5 +21,11 @@ Here are some ideas to get you started:
   
 ##🤍 𝐭𝐞𝐜𝐡 🤍
  
-[![php](https://img.shields.io/badge/php-blueviolet?style=flat-square&logo=PHP&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![php](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![python](https://img.shields.io/badge/python-blue?style=flat-square&logo=Python&logoColor=white)](https://github.com/Ohminjung0804/Python_Project)
+<br><br><br>
+
+##✨ 𝐦𝐞 ✨
+[![insta](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iam._.mingjung/)
+[![tistory](https://img.shields.io/badge/blog-F7901E?style=flat-square&logo=Buefy&logoColor=white)](https://iambestdeveloper.tistory.com/)
+[![Gmail](https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](w2009@e-mirim.hs.kr)
