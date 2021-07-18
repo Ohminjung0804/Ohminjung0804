@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Ohminjung0804/Ohminjung0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
