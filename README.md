@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ##✨ 𝐦𝐞 ✨
+
 [![insta](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iam._.mingjung/)
 [![tistory](https://img.shields.io/badge/blog-F7901E?style=flat-square&logo=Buefy&logoColor=white)](https://iambestdeveloper.tistory.com/)
 [![Gmail](https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](w2009@e-mirim.hs.kr)
+</div>
