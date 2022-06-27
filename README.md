@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MINJUNG&fontSize=90)
 <div align=center>
   
@@ -34,3 +35,9 @@ Here are some ideas to get you started:
 [![tistory](https://img.shields.io/badge/blog-F7901E?style=flat-square&logo=Buefy&logoColor=white)](https://iambestdeveloper.tistory.com/)
 <img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
+
+<br><br><br>
+<div align=center><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ohminjung0804&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohminjung0804&layout=compact&theme=nord&hide_border=true" /></div>
+
+
